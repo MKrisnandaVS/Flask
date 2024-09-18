@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/novard/Documents/rp_flask_board/venv"
+VIRTUAL_ENV="/home/novard/Documents/rp_flask_board_dev/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
